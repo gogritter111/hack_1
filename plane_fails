@@ -1,0 +1,35 @@
+Engine failure (single/twin engine)
+Maintain control, glide at best speed, identify nearest runway
+Show nearest airports with enough runway length
+
+Low fuel / fuel leak
+Declare emergency, land at nearest suitable airport
+Display closest airports ranked by distance
+
+Cabin depressurization
+Descend to 10,000 ft immediately, land ASAP
+Suggest nearest airports within safe descent range
+
+Bird strike
+Assess damage, prepare for possible landing
+Show alternate airports within short distance
+
+Hydraulic system failure
+Use backup systems, request long runway
+Filter airports with long runways
+
+Landing gear problem
+Try alternate extension methods, prepare emergency landing
+Suggest airports with strong emergency services
+
+Smoke/Fire in cabin
+Emergency descent, immediate landing
+Display closest airports only (ignore runway length)
+
+Medical emergency (passenger/crew)
+Request priority landing
+Show nearest major airport with medical facilities
+
+Weather-related diversion
+Avoid affected airport, find alternates
+Pull weather data + alternate airports
