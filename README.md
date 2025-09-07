@@ -1,7 +1,7 @@
 # hack_1
 py+maria
 goal is to create a system to aide pilots to stop plane crashes and avoid tragedies
-#story board
+story board
 Pilot is flying a plane A to B, 
 failure is recognized, pilot enter probable cause for failure -> create input field with possible options -> frontend
 as system is searching through database for possible options, weather must be taken into account with realtime data -> API
