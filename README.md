@@ -2,12 +2,12 @@
 py+maria
 goal is to create a system to aide pilots to stop plane crashes and avoid tragedies
 story board
-Pilot is flying a plane A to B, 
-failure is recognized, pilot enter probable cause for failure -> create input field with possible options -> frontend
-as system is searching through database for possible options, weather must be taken into account with realtime data -> API
-once weather is taken into account through API database will accept new weather parameter -> logic+API+db
-extra logic like runway length + plane size must be taken into consideration, create extra parameters(based on factual research) -> logic+db
-once calculations are done by machine, result should be displayed with appropriate rankings -> logic+db+frontend
+1. Pilot is flying a plane A to B, 
+2. failure is recognized, pilot enter probable cause for failure -> create input field with possible options -> frontend
+3. as system is searching through database for possible options, weather must be taken into account with realtime data -> API
+4. once weather is taken into account through API database will accept new weather parameter -> logic+API+db
+5. extra logic like runway length + plane size must be taken into consideration, create extra parameters(based on factual research) -> logic+db
+6. once calculations are done by machine, result should be displayed with appropriate rankings -> logic+db+frontend
 
 Questions to ask ourselves...
 1. What plane are we even flying -> model name, route -> frontend+logic+db
