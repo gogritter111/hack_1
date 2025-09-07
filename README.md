@@ -1,6 +1,6 @@
 # hack_1
 py+maria
-goal is to create a system to aide pilots to stop plane crashes and avoid tragedies
+goal is to create a system to aide pilots to stop plane crashes and avoid tragedies\
 story board
 1. Pilot is flying a plane A to B, 
 2. failure is recognized, pilot enter probable cause for failure -> create input field with possible options -> frontend
